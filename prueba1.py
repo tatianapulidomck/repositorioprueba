@@ -10,4 +10,4 @@ def linear_regression(x,y):
     m, b = np.polyfit(x,y,1)
     return m,b
 
-print(linear_regression(x,y))
+
